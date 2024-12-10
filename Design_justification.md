@@ -1,3 +1,3 @@
 Design justification (including a brief discussion of at least one alternative you considered)
 - For the light selection feature, we considered allowing users to drag and select multiple lights at once. However, I decided against it because it could complicate the interface and be less intuitive for first-time players. Instead, I chose a simpler click-based selection process.
-- Initially, I considered making the game a timed puzzle where players had to turn on all lights within a specific time. However, I shifted to a turn-based competitive game because it promotes strategic thinking and makes the game more engaging for two players."
+- Initially, I considered making the game a timed puzzle where players had to turn on all lights within a specific time. However, I shifted to a turn-based competitive game because it promotes strategic thinking and makes the game more engaging for two players.
